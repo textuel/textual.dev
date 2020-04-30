@@ -149,6 +149,21 @@ body pre {
     color: #ec3377;
 }
 
+.logo-img {
+    width: 120px !important;
+}
+
+::-moz-selection {
+    /* Code for Firefox */
+    color: white;
+    background: #ED7078;
+}
+
+::selection {
+    color: white;
+    background: #ED7078;
+}
+
 
 /* ===================================
     1.1 Global Header Logo/Menu CSS
