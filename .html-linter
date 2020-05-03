@@ -1,0 +1,12 @@
+{
+  "files": ["index.html", "psw.html", "kdh.html"],
+  "indentation": {
+    "char": "space",
+    "number": 2
+  },
+  "attributes": {
+    "quotes": "double",
+    "whitespace": 0,
+    "vertical-align": false
+  }
+}
